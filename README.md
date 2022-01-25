@@ -3,7 +3,6 @@
 **박영웅님의 패스트캠퍼스 강의와 함께 했습니다.**  
 **아래 글은 박영웅님과 함께한 과정의 내용입니다.**  
 [깃허브](https://github.com/Cottonwood-moa/imdbMovieApp)  
-ㅤ  
 [Go to Website](https://movie-app-cottonwood.netlify.app/)  
 
 Vue3와 OMDb API를 사용하는 영화 검색 애플리케이션입니다.    
