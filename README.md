@@ -1,7 +1,7 @@
 # Vue3 Movie app
 ㅤ  
 **박영웅님의 패스트캠퍼스 강의와 함께 했습니다.**  
-**아래 글은 박영웅님과 함께한 과정의 내용입니다.**  
+**아래는 박영웅님과 함께한 과정의 내용입니다.**  
 [깃허브](https://github.com/Cottonwood-moa/imdbMovieApp)  
 [Go to Website](https://movie-app-cottonwood.netlify.app/)  
 
