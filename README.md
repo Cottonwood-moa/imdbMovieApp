@@ -7,6 +7,9 @@
 
 Vue3와 OMDb API를 사용하는 영화 검색 애플리케이션입니다.    
 ㅤ  
+## Preview  
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/79053495/152558444-90d6b036-f14a-4498-af43-812477c9e8fb.gif)  
+  
 ## 🌿 Branches
 
 진행 순서에 맞는 브랜치를 확인하세요.
